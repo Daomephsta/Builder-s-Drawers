@@ -1,0 +1,16 @@
+[
+{
+  "modid": "buildersdrawers",
+  "name": "Builder's Drawers",
+  "description": "Stairs, slabs and blocks in one drawer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Daomephsta"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["storagedrawers"]
+}
+]

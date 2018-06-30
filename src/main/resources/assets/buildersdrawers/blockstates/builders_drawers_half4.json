@@ -1,0 +1,33 @@
+{
+    "forge_marker": 1,
+	"defaults":
+	{
+		"model": "buildersdrawers:builders_drawers_half4"
+	},
+    "variants":
+    {
+		"facing":
+        {
+            "north":
+            {
+				"y": 0
+            },
+            "east":
+            {
+                "y": 90
+            },
+            "south":
+            {
+                "y": 180
+            },
+            "west":
+            {
+                "y": 270
+            }
+        },
+		"inventory": 
+		{
+			"model": "buildersdrawers:builders_drawers_half4"
+		}
+    }
+}

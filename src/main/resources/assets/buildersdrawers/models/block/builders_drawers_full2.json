@@ -1,0 +1,11 @@
+{
+    "parent": "storagedrawers:block/drawer_orientable",
+    "textures": 
+    {
+        "top": "buildersdrawers:blocks/builders_drawers_side",
+        "front": "buildersdrawers:blocks/builders_drawers_front_2",
+        "side": "buildersdrawers:blocks/builders_drawers_side_tools",
+        "trim": "buildersdrawers:blocks/builders_drawers_trim",
+		"south": "buildersdrawers:blocks/builders_drawers_side"
+    }
+}
